@@ -1,0 +1,1 @@
+{"name":"notenest","version":"0.1.0","private":true,"description":"Offline-first notebook prototype","scripts":{"start":"node serve.cjs","check":"node --check dist/app.js && node --check dist/sw.js"}}
